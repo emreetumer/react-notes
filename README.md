@@ -43,6 +43,29 @@ Modern Next.js uygulaması:
 
 [Next.js Proje Detayları](React/NEXTJS-PROJE/README.md)
 
+#### 🚀 Next.js + .NET API Entegrasyonu (YENİ!)
+**Profesyonel Backend Entegrasyon Projesi:**
+- ✅ Axios ile API Client katmanı
+- ✅ JWT Authentication sistemi
+- ✅ CRUD operations (Product yönetimi)
+- ✅ Custom Hooks (useAuth, useProducts)
+- ✅ TypeScript %100 type-safe
+- ✅ Error handling ve interceptors
+- ✅ Token refresh mechanism
+- ✅ Pagination ve search özellikleri
+- ✅ **Detaylı 9 bölümlük teorik anlatım**
+- ✅ Production-ready kod yapısı
+
+**Öğrenecekleriniz:**
+- .NET Web API ile Next.js entegrasyonu
+- API Service katmanı nasıl oluşturulur
+- Authentication flow nasıl yapılır
+- Token management best practices
+- Error handling stratejileri
+- TypeScript ile tip güvenli geliştirme
+
+[📚 Next.js + .NET API Detaylı Rehber](NEXTJS-DOTNET-API/README.md) | [🎓 Teorik Ders Notları](NEXTJS-DOTNET-API/DERS-NOTLARI.md)
+
 ### 🚀 Örnek Dersleri
 
 Temel React konularını uygulamalı olarak öğrenmek için:
@@ -57,6 +80,7 @@ Projeleri çalıştırmak için:
 ```bash
 # Proje klasörüne gidin
 cd React/FINAL-PROJE  # veya istediğiniz proje
+# Örnek: cd NEXTJS-DOTNET-API  (Backend entegrasyon projesi için)
 
 # Bağımlılıkları yükleyin
 npm install
@@ -64,6 +88,14 @@ npm install
 # Geliştirme sunucusunu başlatın
 npm run dev
 ```
+
+### 🔥 Önerilen Öğrenme Sırası:
+
+1. **Temel React** → React/dersler/ klasöründeki dersler
+2. **Pratik Örnekler** → React/ornekler/ klasöründeki örnekler  
+3. **Final Proje** → React/FINAL-PROJE/
+4. **Next.js Basics** → React/NEXTJS-PROJE/
+5. **Backend Entegrasyon** → NEXTJS-DOTNET-API/ 🔥 (İleri seviye)
 
 ## 📋 Gereksinimler
 
@@ -73,10 +105,26 @@ npm run dev
 
 ## 🎓 Nasıl Kullanılır?
 
+### Başlangıç Seviyesi:
 1. İlk olarak [dersler](React/dersler/) klasöründeki notları sırasıyla okuyun
 2. Her ders sonrasında ilgili örnek kodları inceleyin
 3. Örnek projeleri çalıştırarak pratik yapın
 4. Final proje ile öğrendiklerinizi pekiştirin
+
+### İleri Seviye (Backend Entegrasyon):
+5. [NEXTJS-DOTNET-API/DERS-NOTLARI.md](NEXTJS-DOTNET-API/DERS-NOTLARI.md) dosyasını okuyun
+6. API Client yapısını inceleyin
+7. Authentication flow'unu öğrenin
+8. Pratik projeyi çalıştırarak test edin
+
+## 🎯 Proje Seviyeleri
+
+| Seviye | Proje | Açıklama |
+|--------|-------|----------|
+| 🟢 Başlangıç | React Örnekleri | 40+ basit örnek |
+| 🟡 Orta | Final Proje | Context, Router, Hooks |
+| 🟠 İleri | Next.js Projesi | SSR, TypeScript |
+| 🔴 İleri+ | **Next.js + .NET API** | Backend entegrasyon, JWT |
 
 ## 📝 Özellikler
 
@@ -86,6 +134,9 @@ npm run dev
 - ✅ Gerçek proje senaryoları
 - ✅ Best practices
 - ✅ TypeScript örnekleri
+- ✅ **Next.js + .NET API entegrasyonu**
+- ✅ **Backend entegrasyon rehberi**
+- ✅ **Production-ready kod yapıları**
 
 ## 🤝 Katkıda Bulunma
 
